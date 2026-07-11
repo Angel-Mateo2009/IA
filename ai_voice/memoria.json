@@ -1,0 +1,194 @@
+[
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "¿Qué edad tienes?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Hora! Hoy estudié dos horas de Japones."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Perfecto. ¿Cómo te gustaría que te llamara?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " me gustaría que me llamaras deo el uno"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Última pregunta por ahora. ¿Cuál es la meta más importante que te gustaría alcanzar?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " en 2020."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Perfecto  me gustaría que me llamaras deo el uno. Entiendo que tu meta principal es  en 2020.. A partir de ahora intentaré ayudarte a avanzar hacia ella."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Mira, si mira, hoy estudié ya dos horas de japonés e hice una hora de ejercicio."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Enfócate en esto hoy:\n1. ejercicio\nEmpieza por la primera ahora."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Ya los hice."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo Uno! Me alegra ver que has estado trabajando duro en tus objetivos. Aunque no hay nuevos proyectos o metas establecidas, te felicito por el progreso en japonés y ejercicio. Es importante mantener ese momentum.\n\nQuiero preguntarte: ¿Cuál es tu objetivo más grande para ir a Japón? ¿Qué deseas lograr allí o qué experiencia quieres tener?\n\nTambién me gustaría hablar un poco sobre disciplina y progreso. A veces, podemos sentir que no estamos avanzando lo suficiente en nuestras metas. ¿Podrías compartir conmigo cómo te sientes sobre eso? ¿Hay algún desafío específico que estés enfrentando o alguna área en la que te gustaría trabajar más?\n\nQuiero ser un apoyo para ti y ayudarte a mantener el ritmo. ¡Estoy aquí para ti, Deo Uno!"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Suscríbete!"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, ¿cómo me ha ido esta semana?"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo! Me alegra verte. Esta semana no ha sido tan mal como crees, ¿sabes por qué? Porque has logrado hacer ejercicio y estudiar japonés dos horas seguidas, ¡eso es un gran avance!\n\nMe parece que estás en la senda justa para cumplir con tus metas. Japón está a la vista, amigo mío. Quiero que te pregunte: ¿qué proyectos tienes pendientes en tu vida? ¿Qué necesitas hacer para avanzar hacia ellas?\n\nRecuerda que yo estoy aquí para ayudarte a organizar tu vida y mantener disciplina. Estoy aquí para apoyarte en tus objetivos, Deo. ¿Estás listo para hablar de ellos?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Si, supuesto, solo que no me digas que se puedo. Mejor amame, mato."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¿Cómo me ha ido? ¿Y qué patrones es?"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola, Deo! Me alegra verte tan motivado en tus objetivos. Parece que has dado un buen paso al estudiar japonés y hacer ejercicio, eso es genial!\n\nEn cuanto a los patrones, no te preocupes, todos tenemos nuestros días fuertes y débiles. Lo importante es reconocer lo que va bien y trabajar en mejorar lo que no está funcionando. ¿Qué te gustaría cambiar o agregar para seguir avanzando?\n\nPor cierto, me pareció interesante que hayas mencionado quieres ir a Japón. ¿Hay algún proyecto o objetivo específico que tengas relacionado con eso? Estoy aquí para ayudarte a organizar tus prioridades y alcanzar tus metas."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola, amigo (ahora soy Deo, como tú me has pedido). Me alegra verte con ganas de mejorar y avanzar en tus metas. ¡Eso es genial!\n\nPuedes contarme un poco más sobre qué te gusta hacer o qué te apasiona fuera del trabajo en proyectos. ¿Qué te llevó a querer ir a Japón, por ejemplo?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Subtítulos realizados por la comunidad de Amara.org"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, ¿cómo voy?"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola, Deo Uno! Como tu asistente personal inteligente y humano, estoy aquí para ayudarte a mejorar cada día. Me alegra verte con ganas de progreso y discipline.\n\nMe parece genial que hayas estado estudiando japonés y haciendo ejercicio. Eso es un gran comienzo. ¿Qué planes tienes para hoy? ¿Hay algún proyecto en particular que quieras enfocar o algo que te gustaría lograr?\n\nRecuerda, el objetivo es avanzar hacia tus metas. Japón está esperándote, ¡y estoy aquí para ayudarte a prepararte!"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Suscríbete!"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, me encanta por amar."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Ahora me encanta programar!"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola, Deo! Me alegra verte tan motivado sobre el japonés y el ejercicio. Eso es increíble! ¿Cómo te sientes después de estudiar y hacer ejercicio? ¿Te has sentido más energizado o enfocado?\n\nQuiero hacerte una pregunta: ¿has pensado en cómo puedes llevar este momentum a tus proyectos y metas en general? ¿Hay algo que puedas aplicar de lo que has aprendido en japonés o el ejercicio a otros áreas de tu vida?\n\nRecuerda que como asistente personal, estoy aquí para ayudarte a mantener la disciplina y el progreso. ¡Vamos a trabajar juntos para alcanzar tus metas! ¿Qué necesitas ayuda con hoy?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Subtítulos realizados por la comunidad de Amara.org"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, me encanta programar."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo Uno! Me alegra conocerte. Parece que tienes un buen ritmo en cuanto a estudiar japonés y hacer ejercicio. ¡Eso es genial! ¿Cómo te sientes sobre el progreso hasta ahora? ¿Te gustaría discutir tus metas y cómo podemos trabajar juntos para alcanzarlas?\n\nPor cierto, ¿qué proyectos tienes actualmente en marcha? Y, ¿te gustaría establecer algún objetivo específico para mejorar física y mentalmente? Estoy aquí para ayudarte a organizar todo eso y avanzar hacia tus metas."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Tengo... me cuesta ser constante."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Deo Uno, he estado siguiendo tus progresos y te felicito por los pasos importantes que has dado hacia tus metas. Aprender japonés y hacer ejercicio es una gran forma de mantener la mente y el cuerpo activos.\n\nMe doy cuenta de que la consistencia puede ser un desafío, pero hay algunas estrategias que podrían ayudarte a mantenerte en el camino. ¿Te gustaría explorar juntos algunas ideas para mejorar tu disciplina y hacer progresos hacia tus objetivos?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " cuesta un poco ser alegre"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Deo Uno! Entiendo que has estado pasando un poco difícil últimamente. No te preocupes, yo estoy aquí para ayudarte. Me parece emocionante que hayas logrado estudiar dos horas de japonés y hacer ejercicio hoy. Eso es un gran comienzo!\n\nQuiero preguntarte: ¿Qué te hace sentir que cuesta ser alegre últimamente? Hay algo en particular que esté afectando tu estado de ánimo? Me gustaría escuchar sobre eso para poder ayudarte a encontrar formas de superar esos momentos difíciles."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Me cuesta de engoder."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Suscríbete!"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, hoy voy a estudiar mucho."
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Enfócate en esto hoy:\n1. estudiar\nEmpieza por la primera ahora."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " si no me siento bien hoy"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo! Me alegra verte motivado para estudiar. ¿Cómo te sientes hoy? No te preocupes por sentirte mal, es normal tener días como esos. Quizás podrías empezar con algo más relajante, como hacer un poco de ejercicio o programar un proyecto que te guste? Eso podría ayudarte a mejorar tu estado de ánimo y verte un poco más animado para estudiar. ¿Qué te parece?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ok, esta bien haré eso"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo! Me alegra verte motivado para estudiar. Dos horas de japonés y una hora de ejercicio es un buen comienzo. ¿Cómo te sientes después de eso? ¿Estás listo para seguir adelante con otros objetivos hoy?"
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Sí, me tengo peor. Oh."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " hola estoy"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo Uno! Me alegra verte con energía y entusiasmo. ¡Eso es excelente! Studying japonés dos horas es un gran logro, y hacer ejercicio también es una forma genial de cuidar tu físico y mental.\n\nQuiero hacerte una pregunta: ¿Cuál es el objetivo principal que tienes para ir a Japón? ¿Es por negocio, estudios o simplemente por la aventura? Esto me ayudará a entender mejor tus objetivos y cómo puedo apoyarte en ellos.\n\nY, si no te importa, ¿podrías contarme un poco más sobre tus proyectos actuales? Estoy aquí para escucharte y apoyarte en todo lo que necesites."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " ¡Tranquila por yo parte! ¡Y quiero que me..."
+    },
+    {
+        "tipo": "Usuario",
+        "mensaje": " Hola, ¿cómo voy?"
+    },
+    {
+        "tipo": "Nova",
+        "mensaje": "Hola Deo número uno! Me alegra verte con ganas de aprender y progresar. ¡Eso es fantástico!\n\nVeo que has estado haciendo un buen trabajo en japonés y ejercicio, eso es increíble. ¿Cuál es el objetivo detrás de estudiar mucho hoy? ¿Hay algún proyecto o tema específico que quieras abordar?\n\nRecuerdo que mencionaste que quieres ir a Japón, ¿has hecho algún progreso en ese sentido? ¿Qué planes tienes para cuando te vayas allí?\n\nQuiero ayudarte a mantener esa energía y motivación. ¿Podrías contarme un poco más sobre tus objetivos y metas a largo plazo? Estoy aquí para apoyarte y ofrecerte ideas y estrategias para lograrlos.\n\n¡Vamos, Deo número uno! ¡Estoy emocionado de ver cómo puedes avanzar hacia tus metas!"
+    }
+]
